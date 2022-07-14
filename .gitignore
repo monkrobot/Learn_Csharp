@@ -1,0 +1,4 @@
+BankAccount/classes/bin/*
+BankAccount/classes/obj/*
+
+BankAccount/classes/classes.csproj
